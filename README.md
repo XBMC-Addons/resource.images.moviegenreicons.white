@@ -1,1 +1,0 @@
-# resource.images.moviegenreicons.monochrome
