@@ -2,8 +2,8 @@
 <addon id="resource.images.moviegenreicons.white" name="Movie Genre Icons - White" version="0.0.1" provider-name="Team Kodi">
 	<extension point="kodi.resource.images" type="moviegenreicons" />
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">"Movie Genre Icons</summary>
-		<description lang="en">"Movie Genre Icons</description>
+		<summary lang="en">White Movie Genre Icons</summary>
+		<description lang="en">Movie Genre Icons in black and white</description>
 		<platform>all</platform>
 	</extension>
 </addon>
